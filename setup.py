@@ -8,10 +8,10 @@ my_dir = os.path.dirname(os.path.realpath(__file__))
 
 
 
-# CONSTANTS
+# CONSTANTS 
 src = 'src'
 name = 'music_album_creation'
-source_code_repo = 'https://github.com/boromir674/music-album-creator'
+source_code_repo = 'https://github.com/boromir674/music-album-creator'   #Мой комментарий!
 changelog = '{}/blob/master/CHANGELOG.rst'.format(source_code_repo)
 
 
